@@ -21,11 +21,10 @@ A rule-based scoring system selects the **best match per company**.
 
 ### Scoring Logic
 
- Feature | Score 
- Name word overlap  50 
- Country match  +25 
- Region match  +15 
- City match +10
+- Name word overlap  +50 
+- Country match  +25 
+- Region match  +15 
+- City match +10
  
 ### Process:
 - Normalize text (lowercase, trim spaces)
