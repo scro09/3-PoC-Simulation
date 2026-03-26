@@ -53,7 +53,6 @@ Then we extract the **top search result (title + URL)** to enrich missing entiti
 - Uses a **simple and fast rule-based scoring system**
 - Is **fully interpretable and easy to debug**
 - Improves coverage by handling **unmatched cases via web search**
-- Keeps the pipeline **modular and scalable**
 - Adds **external knowledge source (DDGS)** for better accuracy
 
  ## Weak Points / Limitation
